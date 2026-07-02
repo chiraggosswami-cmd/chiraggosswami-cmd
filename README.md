@@ -18,10 +18,11 @@
 
 ---
 
-### 🦸‍♂️ Hero Analysis for the Future: Chirag Gosswami
-I am a **Full-Stack ML Engineer** who treats software engineering like a high-stakes research mission. Much like Deku's notebooks, I obsessively analyze chaotic data distributions and complex temporal features to build enterprise-grade systems that actually survive in the "pro-hero" world of production.
+### 🦸‍♂️ Chirag Goswami
+**ML Engineering & Research**
 
-Beyond the terminal, I'm a literature nerd, a coffee enthusiast chasing the perfect espresso pull, and an anime fan who debugs with the same intensity I bring to a season finale. Whether I'm fine-tuning an XGBoost model or writing custom telemetry scripts, I approach every challenge with an unyielding mindset to push past the limits. **Plus Ultra! ⚡**
+a literature nerd || a coffee enthusiast || an anime fan || solo-traveller
+**Plus Ultra! ⚡**
 
 ---
 
@@ -30,15 +31,11 @@ Beyond the terminal, I'm a literature nerd, a coffee enthusiast chasing the perf
   <tr>
     <td width="63%" valign="top">
       
-      <!-- GITHUB STATS CARDS (Deku Theme: Green, Red, Dark) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=chiraggosswami-cmd&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff0000&border_color=1b4d3e" width="100%" />
-      <br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=chiraggosswami-cmd&theme=tokyonight&background=0d1117&fire=ff0000&ring=00ff41&currStreakLabel=00ff41" width="100%" /> -->
       
 <br/>
 
 ### 📂 Current Hero Missions (Featured Projects)
-⚡ **[GridPulse Analytics](https://github.com/chiraggosswami-cmd/gridpulse_analytics)**  
+⚡ **[GridPulse Analytics](https://gridpulseanalytics-chiraggosswami.streamlit.app/)**  
       *The Ultimate Move:* An enterprise ML pipeline (FastAPI + Streamlit) detecting smart grid electricity theft using XGBoost & Isolation Forests.
       
 🏥 **[Hospital Bill Predictor](https://github.com/chiraggosswami-cmd/Hospital-Bill-Prediction)**  
