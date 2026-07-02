@@ -31,24 +31,23 @@ Beyond the terminal, I'm a literature nerd, a coffee enthusiast chasing the perf
     <td width="63%" valign="top">
       
       <!-- GITHUB STATS CARDS (Deku Theme: Green, Red, Dark) -->
-<img src="https://github-readme-stats.vercel.app/api?username=chiraggosswami-cmd&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff0000&border_color=1b4d3e" width="100%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=chiraggosswami-cmd&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff0000&border_color=1b4d3e" width="100%" />
       <br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=chiraggosswami-cmd&theme=tokyonight&background=0d1117&fire=ff0000&ring=00ff41&currStreakLabel=00ff41" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=chiraggosswami-cmd&theme=tokyonight&background=0d1117&fire=ff0000&ring=00ff41&currStreakLabel=00ff41" width="100%" /> -->
       
 <br/>
 
-      ### 📂 Current Hero Missions (Featured Projects)
-
-      ⚡ **[GridPulse Analytics](https://github.com/chiraggosswami-cmd/gridpulse_analytics)**  
+### 📂 Current Hero Missions (Featured Projects)
+⚡ **[GridPulse Analytics](https://github.com/chiraggosswami-cmd/gridpulse_analytics)**  
       *The Ultimate Move:* An enterprise ML pipeline (FastAPI + Streamlit) detecting smart grid electricity theft using XGBoost & Isolation Forests.
       
-      🏥 **[Hospital Bill Predictor](https://github.com/chiraggosswami-cmd/Hospital-Bill-Prediction)**  
+🏥 **[Hospital Bill Predictor](https://github.com/chiraggosswami-cmd/Hospital-Bill-Prediction)**  
       *Precision Strike:* A regression pipeline optimized to a 91% R² score to predict medical billing totals using Scikit-Learn.
 
-      ❤️ **[Heart Disease Portal](https://github.com/chiraggosswami-cmd/HeartDisease_Prediction)**  
+❤️ **[Heart Disease Portal](https://github.com/chiraggosswami-cmd/HeartDisease_Prediction)**  
       *Guardian Protocol:* A health-tech diagnostic interface for real-time cardiovascular risk categorization.
 
-      📈 **[Energy Theft Detection](https://github.com/chiraggosswami-cmd/Energy-Theft-Detection-SGCC)**  
+📈 **[Energy Theft Detection](https://github.com/chiraggosswami-cmd/Energy-Theft-Detection-SGCC)**  
       *Analysis Notebook:* Research-driven benchmarking of SGCC datasets using Random Forests and SVMs.
 
   <br/>
@@ -60,10 +59,10 @@ Beyond the terminal, I'm a literature nerd, a coffee enthusiast chasing the perf
 
   </td>
     <td width="37%" valign="top">
-      <!-- DEKU PORTRAIT IMAGE -->
+  <!-- DEKU PORTRAIT IMAGE -->
       <img src="https://i.pinimg.com/736x/bd/9c/c8/bd9cc8ccab9229b259b361f824c434a6.jpg" width="100%" style="border-radius: 10px; border: 3px solid #1b4d3e; box-shadow: 0px 0px 15px rgba(0, 255, 65, 0.3);"/>
       <br/><br/>
-      <!-- BADGES SECTION -->
+  <!-- BADGES SECTION -->
       <div align="center">
         <img src="https://img.shields.io/badge/HERO_RANK-S_CLASS-00ff41?style=flat-square" />
         <img src="https://img.shields.io/badge/QUIRK-ML_ENGINEERING-red?style=flat-square" />
