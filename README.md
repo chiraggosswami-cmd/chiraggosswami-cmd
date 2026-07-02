@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://i.pinimg.com/originals/30/6a/18/306a1898b5874eb0cf315adccabdd6ad.gif" width="100%" style="border-radius: 10px;"/>
+<img src="https://github.com/chiraggosswami-cmd/chiraggosswami-cmd/blob/main/assests/Deku_vd.gif?raw=true" width="100%" style="border-radius: 10px;"/>
 
 <!-- SOCIAL LINKS (ANIME STICKER STYLE) -->
 <p align="center">
@@ -58,7 +58,7 @@ a literature nerd || a coffee enthusiast || an anime fan || solo-traveller
   </td>
     <td width="37%" valign="top">
   <!-- DEKU PORTRAIT IMAGE -->
-      <img src="https://i.pinimg.com/736x/bd/9c/c8/bd9cc8ccab9229b259b361f824c434a6.jpg" width="100%" style="border-radius: 10px; border: 3px solid #1b4d3e; box-shadow: 0px 0px 15px rgba(0, 255, 65, 0.3);"/>
+      <img src="https://github.com/chiraggosswami-cmd/chiraggosswami-cmd/blob/main/assests/Bakugo_Portrait.jpg?raw=true" width="100%" style="border-radius: 10px; border: 3px solid #1b4d3e; box-shadow: 0px 0px 15px rgba(0, 255, 65, 0.3);"/>
       <br/><br/>
   <!-- BADGES SECTION -->
       <div align="center">
