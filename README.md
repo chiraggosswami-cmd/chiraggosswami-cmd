@@ -22,6 +22,7 @@
 **ML Engineering & Research**
 
 a literature nerd || a coffee enthusiast || an anime fan || solo-traveller
+
 **Plus Ultra! ⚡**
 
 ---
@@ -34,7 +35,7 @@ a literature nerd || a coffee enthusiast || an anime fan || solo-traveller
       
 <br/>
 
-### 📂 Current Hero Missions (Featured Projects)
+### 📂 Featured Hero Missions
 ⚡ **[GridPulse Analytics](https://gridpulseanalytics-chiraggosswami.streamlit.app/)**  
       *The Ultimate Move:* An enterprise ML pipeline (FastAPI + Streamlit) detecting smart grid electricity theft using XGBoost & Isolation Forests.
       
